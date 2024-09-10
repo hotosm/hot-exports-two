@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://www.hotosm.org/</loc>
+         <lastmod>2024-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.hotosm.org/CODE_OF_CONDUCT/</loc>
+         <lastmod>2024-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.hotosm.org/CONTRIBUTING/</loc>
+         <lastmod>2024-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.hotosm.org/diagram/</loc>
+         <lastmod>2024-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://www.hotosm.org/setup-development/</loc>
+         <lastmod>2024-09-10</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
